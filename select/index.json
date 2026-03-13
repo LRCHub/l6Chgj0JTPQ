@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ムカつく -another story- )",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-03-13T12:09:17.082562Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ムカつく (feat. 瀬戸口清武(CV:岡本信彦))",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_ムカつく_(feat._瀬戸口清武(CV_岡本信彦))_HoneyWorks.txt"
+    }
+  ]
+}
